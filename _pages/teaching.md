@@ -12,11 +12,11 @@ Graduate Student Instructor, UC Berkeley
 Spring 2026  
 
 **PH226FW: Cost-Effectiveness Analysis (Online)**  
-Graduate Student Instructor / Reader, UC Berkeley  
+Graduate Student Instructor, UC Berkeley  
 Spring 2025; Spring 2026  
 
 **PH226CW: Economics of Population Health (Online)**  
-Graduate Student Instructor / Reader, UC Berkeley  
+Graduate Student Instructor, UC Berkeley  
 Spring 2025; Spring 2026  
 
 ## Professional Development
