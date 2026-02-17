@@ -7,10 +7,6 @@ venue: "Under Review at the Journal of Health Economics"
 date: 2025-01-01
 ---
 
-**Authors:** Xuqian Ma, Michelle Layvant, Edward Miguel, Eric Ochieng, Ajay Pillarisetti, Michael Walker  
-
-**Status:** Under Review at the *Journal of Health Economics*  
-
 **NBER Working Paper:**  
 [Working Paper No. w34557](https://www.nber.org/system/files/working_papers/w34557/w34557.pdf)
 
