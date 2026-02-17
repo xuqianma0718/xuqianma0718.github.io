@@ -41,11 +41,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Remove underline from publication titles on Research page */
-.archive__item-title,
-.archive__item-title a,
-.archive__item-title span {
-  text-decoration: none !important;
-  border-bottom: none !important;
+/* Remove any underline/border styling from publication titles */
+.archive__item-title {
+  border-bottom: 0 !important;
   box-shadow: none !important;
+  text-decoration: none !important;
+}
+
+.archive__item-title a {
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+  text-decoration: none !important;
 }
