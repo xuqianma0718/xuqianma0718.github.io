@@ -43,12 +43,8 @@
 ;
 /* Remove underline from publication titles on Research page */
 .archive__item-title,
-.archive__item-title * {
-  text-decoration: none !important;
-}
-
-.archive__item-title,
-.archive__item-title * {
+.archive__item-title a,
+.archive__item-title span {
   text-decoration: none !important;
   border-bottom: none !important;
   box-shadow: none !important;
