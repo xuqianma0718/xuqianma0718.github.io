@@ -3,7 +3,6 @@ title: "War Exposure and Aging: Evidence from Vietnam War"
 collection: publications
 category: Manuscripts
 permalink: /publication/2025-01-01-vietnam-psychological-wellbeing
-venue: "Working Paper"
 date: 2025-01-01
 ---
 

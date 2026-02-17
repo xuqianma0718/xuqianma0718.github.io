@@ -5,7 +5,6 @@ category: Working
 permalink: /publication/2025-01-01-air-pollution-cognition-kenya
 venue: "Under Review at the Journal of Health Economics"
 date: 2025-01-01
-citation: "Ma, X., Layvant, M. N., Miguel, E., Ochieng, E., Pillarisetti, A., & Walker, M. W. (2025). Impacts of Contemporaneous Air Pollution Exposure on Cognitive Performance in Kenya (No. w34557). National Bureau of Economic Research."
 ---
 
 **Authors:** Xuqian Ma, Michelle Layvant, Edward Miguel, Eric Ochieng, Ajay Pillarisetti, Michael Walker  
