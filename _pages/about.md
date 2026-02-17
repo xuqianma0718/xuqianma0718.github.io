@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Xuqian Ma (she/her) is a PhD candidate in Health Policy (Health Economics) at the University of California, Berkeley. Her research examines cognition as both a determinant and an outcome of health, with a particular focus on aging populations. She studies how early-life and environmental factors shape cognition across the life course, and how cognitive capacity and decision-making quality influence health behaviors and outcomes.
+Xuqian Ma (she/her) is a PhD candidate in Health Policy (specialization in Health Economics) at the University of California, Berkeley. Her research examines how cognitive capacity and external shocks jointly shape health behaviors and outcomes and long-run human capital accumulation over the life course.
 
 Methodologically, she employs econometric and quasi-experimental approaches to generate causal evidence from large-scale surveys, experimental tasks, and environmental data. Current projects include analyzing the role of economic rationality in preventive health behaviors, the cognitive impacts of contemporaneous air pollution exposure in low-resource settings such as Kenya, and the long-term consequences of wartime bombing on mental and cognitive health in Vietnam.
 
