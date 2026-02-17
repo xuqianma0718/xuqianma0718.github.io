@@ -53,3 +53,14 @@
   box-shadow: none !important;
   text-decoration: none !important;
 }
+
+/* Typography: econ-style */
+body {
+  font-family: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, "Noto Sans", "Liberation Sans", sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page__title, .archive__item-title {
+  font-family: "Lora", Georgia, "Times New Roman", Times, serif !important;
+}
