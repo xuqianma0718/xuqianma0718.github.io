@@ -46,3 +46,10 @@
 .archive__item-title * {
   text-decoration: none !important;
 }
+
+.archive__item-title,
+.archive__item-title * {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
