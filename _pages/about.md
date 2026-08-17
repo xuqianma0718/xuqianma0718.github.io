@@ -15,4 +15,4 @@ My research on air pollution and cognition in Kenya, coauthored with Michelle La
 
 I am a Graduate Student Researcher at the Center for Effective Global Action (CEGA), where I work with Professor Edward Miguel. Before Berkeley, I earned an MS in Economics from Cornell University and a BS in Quantitative Economics and Econometrics from the University of Minnesota Twin Cities.
 
-<p class="profile-links"><a href="/job-market-paper/">Job Market Paper</a> &nbsp;·&nbsp; <a href="/files/Xuqian_Ma_CV_2026.pdf">Curriculum Vitae</a> &nbsp;·&nbsp; <a href="mailto:ma000092@berkeley.edu">Email</a></p>
+<p class="profile-links"><a href="/job-market-paper/">Job Market Paper</a> &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/16l1Sn_BI1nXxvFkPBASCmBBmnpcsUDJ0/view?usp=sharing" target="_blank" rel="noopener">Curriculum Vitae</a> &nbsp;·&nbsp; <a href="mailto:ma000092@berkeley.edu">Email</a></p>
