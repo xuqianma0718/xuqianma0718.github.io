@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-My research examines how decision-making capacity and external shocks shape health behavior, cognitive performance, and human capital.
-
 {% assign job_market_papers = site.publications | where: "category", "jmp" %}
 <section class="research-section">
 <h2 class="research-section__title">Job Market Paper</h2>
