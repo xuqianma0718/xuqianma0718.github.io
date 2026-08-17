@@ -17,19 +17,16 @@ redirect_from:
 <div class="teaching-entry">
   <h3>Economics of Population Health <span>(PH226C)</span></h3>
   <p class="teaching-entry__meta">Graduate Student Instructor · William H. Dow · Spring 2026</p>
-  <p>Graduate course on economic frameworks for understanding population health and evaluating policy trade-offs.</p>
 </div>
 
 <div class="teaching-entry">
   <h3>Economics of Population Health <span>(PH226CW, online)</span></h3>
   <p class="teaching-entry__meta">Graduate Student Instructor · William H. Dow · Spring 2025, Spring 2026</p>
-  <p>Online graduate course applying economic reasoning to population health questions and policy.</p>
 </div>
 
 <div class="teaching-entry">
   <h3>Cost-Effectiveness Analysis <span>(PH226FW, online)</span></h3>
   <p class="teaching-entry__meta">Graduate Student Instructor · William H. Dow · Spring 2025, Spring 2026</p>
-  <p>Graduate course on the principles and applied tools used to compare health interventions under resource constraints.</p>
 </div>
 
 ## Professional Development
