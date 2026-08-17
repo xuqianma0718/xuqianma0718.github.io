@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Xuqian Ma"
 title_separator          : "-"
 name                     : &name "Xuqian Ma"
-description              : &description "Health economist and PhD candidate at UC Berkeley studying health behavior, human capital, and environmental shocks"
+description              : &description "PhD candidate in Health Policy at UC Berkeley studying the social, environmental, and behavioral determinants of health and human capital"
 url                      : https://xuqianma0718.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuqianma0718/xuqianma0718.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "Xuqian.jpg"
   name             : "Xuqian Ma"
   pronouns         : "she/her"
-  bio              : "Health economist and PhD candidate at UC Berkeley"
+  bio              :
   location         : "Berkeley, USA"
   employer         : "University of California, Berkeley"
   uri              : # URL
@@ -142,7 +142,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : "Xuqian.jpg"
-og_description           : "Xuqian Ma is a health economist and PhD candidate at UC Berkeley studying health behavior, human capital, and environmental shocks."
+og_description           : "Xuqian Ma is a PhD candidate in Health Policy at UC Berkeley studying the social, environmental, and behavioral determinants of health and human capital."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
