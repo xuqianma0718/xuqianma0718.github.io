@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate in Health Policy, specializing in Health Economics, at the University of California, Berkeley. My research is in health, development, and behavioral economics. I study how decision-making capacity and environmental shocks shape health behavior and human capital over the life course.
 
-My [job market paper](/job-market-paper/), “Economic Rationality and Preventive Health Behaviors,” studies whether people whose choices more consistently satisfy revealed-preference conditions are more likely to invest in preventive health. My other work examines the cognitive costs of air pollution in Kenya, the long-run effects of wartime bombing in Vietnam, and whether nutrition can mitigate the developmental effects of prenatal pollution exposure.
+My [job market paper](/job-market-paper/), “Choice Consistency, Cognitive Skill, and Vaccination Across Decision Environments,” studies which dimensions of decision-making predict vaccination across influenza and COVID-19 environments. My other work examines the cognitive costs of air pollution in Kenya, the long-run effects of wartime bombing in Vietnam, and whether nutrition can mitigate the developmental effects of prenatal pollution exposure.
 
 My research on air pollution and cognition in Kenya, coauthored with Michelle Layvant, Edward Miguel, Eric Ochieng, Ajay Pillarisetti, and Michael Walker, is published in the *Journal of Health Economics*.
 
