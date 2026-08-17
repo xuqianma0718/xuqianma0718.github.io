@@ -7,31 +7,26 @@ redirect_from:
   - /teaching.html
 ---
 
-<p class="page__lead">I teach graduate courses in health economics and economic evaluation at Berkeley Public Health. My goal is to help students move from following a method to making and defending sound analytical choices.</p>
+I have served as a Graduate Student Instructor for graduate courses in health economics and economic evaluation at Berkeley Public Health.
 
 ## Teaching Experience
 
-<div class="teaching-grid">
-  <article class="teaching-card">
-    <p class="teaching-card__code">PH226C</p>
-    <h3>Economics of Population Health</h3>
-    <p class="teaching-card__meta">Graduate Student Instructor · Spring 2026</p>
-    <p>Economic frameworks for understanding population health and evaluating policy trade-offs.</p>
-  </article>
+<div class="teaching-entry">
+  <h3>Economics of Population Health <span>(PH226C)</span></h3>
+  <p class="teaching-entry__meta">Graduate Student Instructor · Spring 2026</p>
+  <p>Graduate course on economic frameworks for understanding population health and evaluating policy trade-offs.</p>
+</div>
 
-  <article class="teaching-card">
-    <p class="teaching-card__code">PH226CW · Online</p>
-    <h3>Economics of Population Health</h3>
-    <p class="teaching-card__meta">Graduate Student Instructor · Spring 2025, Spring 2026</p>
-    <p>An online graduate course applying economic reasoning to population health questions and policy.</p>
-  </article>
+<div class="teaching-entry">
+  <h3>Economics of Population Health <span>(PH226CW, online)</span></h3>
+  <p class="teaching-entry__meta">Graduate Student Instructor · Spring 2025, Spring 2026</p>
+  <p>Online graduate course applying economic reasoning to population health questions and policy.</p>
+</div>
 
-  <article class="teaching-card">
-    <p class="teaching-card__code">PH226FW · Online</p>
-    <h3>Cost-Effectiveness Analysis</h3>
-    <p class="teaching-card__meta">Graduate Student Instructor · Spring 2025, Spring 2026</p>
-    <p>Principles and applied tools for comparing health interventions under resource constraints.</p>
-  </article>
+<div class="teaching-entry">
+  <h3>Cost-Effectiveness Analysis <span>(PH226FW, online)</span></h3>
+  <p class="teaching-entry__meta">Graduate Student Instructor · Spring 2025, Spring 2026</p>
+  <p>Graduate course on the principles and applied tools used to compare health interventions under resource constraints.</p>
 </div>
 
 ## Professional Development
@@ -40,6 +35,6 @@ redirect_from:
 
 ## Teaching Approach
 
-Understanding a method is not the same as knowing how to use it. In health economics, students may be able to reproduce a calculation yet still feel uncertain when assumptions change or a policy problem does not fit neatly into a template. I make the underlying reasoning visible: how we define the question, which trade-offs we are making, what assumptions we impose, and how those choices shape the conclusion.
+My teaching emphasizes the economic reasoning behind analytical methods. Students learn not only to carry out a calculation, but also to define the policy question, make assumptions explicit, and explain how those assumptions affect the conclusion.
 
-Students enter quantitative courses with different levels of preparation and confidence. I provide structure early—clear problem-solving steps, common conceptual pitfalls, and explicit expectations—then ask students to take increasing ownership of their choices. They practice justifying models, explaining results in plain language, and revising conclusions when assumptions change. I want students to leave able to approach unfamiliar policy problems with clarity and discipline.
+I use worked examples and structured problem-solving early in a course, then ask students to take increasing responsibility for modeling choices and interpretation. My goal is for students to be able to approach unfamiliar policy problems carefully, communicate results in plain language, and revise their conclusions when assumptions change.
