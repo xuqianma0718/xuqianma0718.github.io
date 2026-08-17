@@ -12,5 +12,3 @@ I am a PhD candidate in Health Policy (Health Economics Concentration) at the Un
 My [job market paper](/job-market-paper/), “Choice Consistency, Cognitive Skill, and Vaccination Across Decision Environments,” studies which dimensions of decision-making predict vaccination across influenza and COVID-19 environments. My other work examines the cognitive costs of air pollution in Kenya, the long-run effects of wartime bombing in Vietnam, and whether nutrition can mitigate the developmental effects of prenatal pollution exposure.
 
 I am a Graduate Student Researcher at the Center for Effective Global Action (CEGA), where I work with Professor Edward Miguel.
-
-<p class="profile-links"><a href="/job-market-paper/">Job Market Paper</a> &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/16l1Sn_BI1nXxvFkPBASCmBBmnpcsUDJ0/view?usp=sharing" target="_blank" rel="noopener">Curriculum Vitae</a> &nbsp;·&nbsp; <a href="mailto:ma000092@berkeley.edu">Email</a></p>
