@@ -3,28 +3,43 @@ layout: single
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+redirect_from:
+  - /teaching.html
 ---
 
-## Courses Taught
+<p class="page__lead">I teach graduate courses in health economics and economic evaluation at Berkeley Public Health. My goal is to help students move from following a method to making and defending sound analytical choices.</p>
 
-**PH226C: Economics of Population Health**  
-Graduate Student Instructor, UC Berkeley  
-Spring 2026  
+## Teaching Experience
 
-**PH226FW: Cost-Effectiveness Analysis (Online)**  
-Graduate Student Instructor, UC Berkeley  
-Spring 2025; Spring 2026  
+<div class="teaching-grid">
+  <article class="teaching-card">
+    <p class="teaching-card__code">PH226C</p>
+    <h3>Economics of Population Health</h3>
+    <p class="teaching-card__meta">Graduate Student Instructor · Spring 2026</p>
+    <p>Economic frameworks for understanding population health and evaluating policy trade-offs.</p>
+  </article>
 
-**PH226CW: Economics of Population Health (Online)**  
-Graduate Student Instructor, UC Berkeley  
-Spring 2025; Spring 2026  
+  <article class="teaching-card">
+    <p class="teaching-card__code">PH226CW · Online</p>
+    <h3>Economics of Population Health</h3>
+    <p class="teaching-card__meta">Graduate Student Instructor · Spring 2025, Spring 2026</p>
+    <p>An online graduate course applying economic reasoning to population health questions and policy.</p>
+  </article>
+
+  <article class="teaching-card">
+    <p class="teaching-card__code">PH226FW · Online</p>
+    <h3>Cost-Effectiveness Analysis</h3>
+    <p class="teaching-card__meta">Graduate Student Instructor · Spring 2025, Spring 2026</p>
+    <p>Principles and applied tools for comparing health interventions under resource constraints.</p>
+  </article>
+</div>
 
 ## Professional Development
 
-**Universal Design for Learning (UDL) Workshop**, UC Berkeley  
+**Preparing Future Faculty Universal Design for Learning Working Group**, UC Berkeley, Summer 2025
 
-## Teaching Philosophy
+## Teaching Approach
 
-I began to think differently about teaching when I realized that understanding a method is not the same as knowing how to use it. In health economics, students can often reproduce calculations or follow a model step-by-step, yet feel uncertain when assumptions shift or when a policy problem does not fit neatly into a template. My goal in the classroom is to make the underlying reasoning visible: how we define a policy question, what trade-offs we are making, what assumptions we are imposing, and how those assumptions shape our conclusions.
+Understanding a method is not the same as knowing how to use it. In health economics, students may be able to reproduce a calculation yet still feel uncertain when assumptions change or a policy problem does not fit neatly into a template. I make the underlying reasoning visible: how we define the question, which trade-offs we are making, what assumptions we impose, and how those choices shape the conclusion.
 
-Students come to quantitative courses with very different levels of preparation and confidence. I try to provide structure early on—a clear way of approaching problems, common conceptual pitfalls, and explicit expectations—so that students can focus on thinking rather than guessing what to do next. Over time, I ask them to take more ownership: to justify their modeling choices, explain results in plain language, and reconsider their conclusions when assumptions change. I aim to create a classroom where asking foundational questions is welcomed and where careful reasoning is valued more than arriving at the “right” answer quickly. My hope is that students leave not only able to complete a health economics analysis, but confident in their ability to approach unfamiliar policy problems with clarity and discipline.
+Students enter quantitative courses with different levels of preparation and confidence. I provide structure early—clear problem-solving steps, common conceptual pitfalls, and explicit expectations—then ask students to take increasing ownership of their choices. They practice justifying models, explaining results in plain language, and revising conclusions when assumptions change. I want students to leave able to approach unfamiliar policy problems with clarity and discipline.

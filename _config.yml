@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Xuqian Ma"
 title_separator          : "-"
 name                     : &name "Xuqian Ma"
-description              : &description "PhD candidate in Health Economics at UC Berkeley"
+description              : &description "Health economist and PhD candidate at UC Berkeley studying health behavior, human capital, and environmental shocks"
 url                      : https://xuqianma0718.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xuqianma0718/xuqianma0718.github.io"
@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "Xuqian.jpg"
   name             : "Xuqian Ma"
-  pronouns         : # example: "she/her"  
-  bio              : ""
+  pronouns         : "she/her"
+  bio              : "Health economist and PhD candidate at UC Berkeley"
   location         : "Berkeley, USA"
   employer         : "University of California, Berkeley"
   uri              : # URL
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "xuqian-ma-215a87131"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -80,14 +80,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  jmp:
+    title: 'Job Market Paper'
+  publications:
+    title: 'Publications'
   working:
     title: 'Working Papers'
+  wip:
+    title: 'Work in Progress'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -141,8 +141,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "og.png"
+og_description           : "Xuqian Ma is a health economist and PhD candidate at UC Berkeley studying health behavior, human capital, and environmental shocks."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

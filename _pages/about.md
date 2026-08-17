@@ -1,18 +1,22 @@
 ---
 permalink: /
-title: "Welcome"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Xuqian Ma (she/her) is a PhD candidate in Health Policy (specialization in Health Economics) at the University of California, Berkeley. Her research examines how cognitive capacity and external shocks jointly shape health behaviors and outcomes and human capital accumulation over the life course.
+I am a health economist and PhD candidate in Health Policy at the University of California, Berkeley. My research sits at the intersection of health, development, and behavioral economics. I study how decision-making capacity and environmental shocks shape health behavior and human capital over the life course.
 
-Methodologically, she employs econometric and quasi-experimental approaches to generate causal evidence from large-scale surveys, experimental tasks, and environmental data. Current projects include analyzing the role of economic rationality in preventive health behaviors, the cognitive impacts of contemporaneous air pollution exposure in low-resource settings such as Kenya, and the long-term consequences of wartime bombing on mental and cognitive health in Vietnam.
+My job market paper, [“Economic Rationality and Preventive Health Behaviors”](/job-market-paper/), examines how consistency in individual choice is related to investment in preventive health. My other work studies the immediate cognitive costs of air pollution in Kenya, the long-run effects of wartime bombing on cognition and mental health in Vietnam, and whether nutrition can mitigate the developmental harm of prenatal pollution exposure.
 
-She is a Graduate Student Researcher at the Center for Effective Global Action (CEGA), working with Professor Edward Miguel on research linking air pollution and cognition in Kenya. Her doctoral work has been supported by fellowships and awards from the UC Berkeley Health Policy Program and the Graduate Division.
+I combine econometric and quasi-experimental methods with large-scale surveys, experimental measures, and environmental data. My research on air pollution and cognition in Kenya, coauthored with Michelle Layvant, Edward Miguel, Eric Ochieng, Ajay Pillarisetti, and Michael Walker, is published in the *Journal of Health Economics*.
 
-Prior to her doctoral studies, she earned a Bachelor’s degree in Quantitative Economics and Econometrics from the University of Minnesota Twin Cities and a Master’s degree in Applied Economics from Cornell University.
+I am a Graduate Student Researcher at the Center for Effective Global Action (CEGA), where I work with Professor Edward Miguel. Before Berkeley, I earned an MS in Economics from Cornell University and a BS in Quantitative Economics and Econometrics from the University of Minnesota Twin Cities.
 
-
+<div class="profile-actions">
+  <a class="btn btn--primary" href="/job-market-paper/">Job Market Paper</a>
+  <a class="btn btn--inverse" href="/publications/">Research</a>
+  <a class="btn btn--inverse" href="/files/Xuqian_Ma_CV_2026.pdf">CV</a>
+</div>

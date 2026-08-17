@@ -1,10 +1,13 @@
 ---
 title: "Impacts of Contemporaneous Air Pollution Exposure on Cognitive Performance in Kenya"
 collection: publications
-category: Working
+category: publications
 permalink: /publication/2025-01-01-air-pollution-cognition-kenya
-venue: "R&R at the Journal of Health Economics"
-excerpt: 'This paper examines the short-run impact of contemporaneous exposure to fine particulate matter (PM₂.₅) on cognitive performance in midlife adults in Kenya. Using high-frequency personal exposure data collected via Atmotube monitors and linked to detailed cognitive assessments from the Kenya Life Panel Survey (KLPS), we estimate the causal effects of pollution exposure on multiple cognitive domains. We document that higher real-time PM₂.₅ exposure significantly reduces cognitive performance, with effects concentrated in measures of general cognition. These findings provide new evidence on the immediate cognitive costs of air pollution in low- and middle-income settings and underscore the broader human capital implications of environmental health risks. (<a href="https://www.nber.org/system/files/working_papers/w34557/w34557.pdf" target="_blank" rel="noopener">NBER Working Paper</a>)'
+authors: "Xuqian Ma, Michelle N. Layvant, Edward Miguel, Eric Ochieng, Ajay Pillarisetti, and Michael W. Walker"
+status: "Published 2026"
+venue: "Journal of Health Economics, 109, 103166"
+links: '<a href="https://doi.org/10.1016/j.jhealeco.2026.103166" target="_blank" rel="noopener">Journal article</a><span aria-hidden="true"> · </span><a href="https://www.nber.org/papers/w34557" target="_blank" rel="noopener">NBER Working Paper</a><span aria-hidden="true"> · </span><a href="https://voxdev.org/voxdevlit/air-pollution" target="_blank" rel="noopener">VoxDevLit: Air Pollution</a>'
+excerpt: 'We estimate the short-term cognitive effects of fine particulate matter (PM₂.₅) exposure using highly localized readings from portable monitors deployed during cognitive assessments in Kenya. Higher exposure during testing is associated with lower performance in executive function, memory, and visuospatial tasks, with larger effects at higher exposure levels. The findings point to underappreciated human-capital costs of acute pollution exposure in low-resource settings.'
 presentations: "Presentations: PAA 2025"
-date: 2025-01-01
+date: 2026-07-15
 ---
