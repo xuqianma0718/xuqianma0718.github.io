@@ -30,11 +30,3 @@ author_profile: true
 {% include archive-single.html %}
 {% endfor %}
 </section>
-
-{% assign works_in_progress = site.publications | where: "category", "wip" %}
-<section class="research-section">
-<h2 class="research-section__title">Work in Progress</h2>
-{% for post in works_in_progress reversed %}
-{% include archive-single.html %}
-{% endfor %}
-</section>
