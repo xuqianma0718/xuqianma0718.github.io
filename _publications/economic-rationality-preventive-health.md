@@ -4,7 +4,7 @@ collection: publications
 category: jmp
 permalink: /job-market-paper/
 authors: "Xuqian Ma"
-links: '[<a href="https://drive.google.com/file/d/1JBFgaiin_XU56YyAmNXcrnsnGFxtNzU8/view?usp=sharing" target="_blank" rel="noopener">Paper</a>]'
+links: '[<a href="/job-market-paper/#abstract">Abstract</a>]'
 share: false
 comments: false
 pagination: false
