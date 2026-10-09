@@ -61,14 +61,14 @@
   </p>
 {% endif %}
 
-    {% if post.links %}
-      <p class="research__links">{{ post.links }}</p>
-    {% endif %}
-
     {% if post.category == 'jmp' and post.abstract %}
       <p class="archive__item-excerpt" itemprop="description">
         {{ post.abstract | markdownify | remove: '<p>' | remove: '</p>' }}
       </p>
+    {% endif %}
+
+    {% if post.links %}
+      <p class="research__links">{{ post.links }}</p>
     {% endif %}
 
     {% if post.presentations %}
