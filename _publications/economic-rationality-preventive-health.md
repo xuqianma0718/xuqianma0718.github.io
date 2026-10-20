@@ -1,5 +1,5 @@
 ---
-title: "What Do Measures of Decision-Making Ability Tell Us About Preventive Health Behavior? Evidence from Flu and COVID-19"
+title: "What Do Measures of Decision-Making Ability Tell Us About Preventive Health Behavior? Evidence from Flu and COVID-19 vaccination"
 collection: publications
 category: jmp
 permalink: /job-market-paper/
