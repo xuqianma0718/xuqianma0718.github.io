@@ -1,5 +1,5 @@
 ---
-title: "Not Interchangeable: Quantitative Ability, Choice Consistency, and Vaccine Uptake"
+title: "What Do Measures of Decision-Making Ability Tell Us About Preventive Health Behavior? Evidence from Flu and COVID-19"
 collection: publications
 category: jmp
 permalink: /job-market-paper/
